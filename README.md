@@ -7,6 +7,10 @@ Follow these steps to set up the infrastructure using Terraform:
 
     ```bash
     cd s3-bucket
+	# Edit the file and run terraform commands
+		terraform init
+		terraform plan
+		terraform apply
     ```
 
 2. **Update Backend Configuration:**
